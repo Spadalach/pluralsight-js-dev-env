@@ -1,1 +1,22 @@
-{"users":[{"id":76415483,"firstName":"Leora","lastName":"Ullrich","email":"Rubye_Aufderhar69@hotmail.com"},{"id":61926061,"firstName":"Nannie","lastName":"Gorczany","email":"Colten0@yahoo.com"},{"id":56520781,"firstName":"Charlie","lastName":"D'Amore","email":"Sylvester_Welch@hotmail.com"},{"id":61761768,"firstName":"Tyshawn","lastName":"Herman","email":"Kaleigh.Thiel85@hotmail.com"},{"id":38771023,"firstName":"Hadley","lastName":"Rau","email":"Durward27@hotmail.com"}]}
+{
+  "users": [
+    {
+      "id": 76415483,
+      "firstName": "Leora",
+      "lastName": "Ullrich",
+      "email": "Rubye_Aufderhar69@hotmail.com"
+    },
+    {
+      "id": 61926061,
+      "firstName": "Nannie",
+      "lastName": "Gorczany",
+      "email": "Colten0@yahoo.com"
+    },
+    {
+      "id": 56520781,
+      "firstName": "Charlie",
+      "lastName": "D'Amore",
+      "email": "Sylvester_Welch@hotmail.com"
+    }
+  ]
+}
